@@ -18,6 +18,7 @@
     <meta name="latlng" content="{{page.latlng}}" />
     <meta name="language" content="{{page.language}}" />
     <meta name="eventbrite" content="{{page.eventbrite}}" />
+    <meta name="organizer" content="{{page.organizer|join:'|'}}" />
     <meta name="instructor" content="{{page.instructor|join:'|'}}" />
     <meta name="helper" content="{{page.helper|join:'|'}}" />
     <meta name="contact" content="{{page.contact}}" />
@@ -41,6 +42,14 @@
                 <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
               </div>
               <div class="col-md-6">
+                <p>
+                <strong>Organizer:</strong>
+                {% if page.organizer %}
+                {{page.organizer | join: ', ' %}}
+                {% else %}
+                to be announced.
+                {% endif %}
+                </p>
                 <p>
                 <strong>Instructors:</strong>
                 {% if page.instructor %}
