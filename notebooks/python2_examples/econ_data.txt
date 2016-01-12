@@ -1,0 +1,57 @@
+country,country_code,gdp_usd,pop,fx_per_usd,currency_code,currency_name,big_mac_local_price
+Argentina,ARG,609.9,43132,8.1688,ARS,Argentine peso,21.00
+Australia,AUS,1560.4,23714,1.0594,AUD,Australian dollar,5.10
+Austria,AUT,428.3,8527,0.7427,EUR,Euro,3.39
+Belgium,BEL,524.8,11233,0.7427,EUR,Euro,3.70
+Brazil,BRA,2245.7,203663,2.2203,BRL,Brazilian real,13.00
+United Kingdom,GBR,2678.5,64106,0.5868,GBP,British pound[C],2.89
+Canada,CAN,1826.8,35676,1.0741,CAD,Canadian dollar,5.64
+Chile,CHL,277.2,18006,564.1400,CLP,Chilean peso,2100.00
+China,CHN,9240.3,1367400,6.1983,CNY,Chinese yuan,16.90
+Colombia,COL,378.4,47931,1847.6500,COP,Colombian peso,8600.00
+Costa Rica,CRI,49.6,4773,537.3000,CRC,Costa Rican colon,2150.00
+Czech Republic,CZE,208.8,10522,20.3877,CZK,Czech koruna,70.45
+Denmark,DNK,335.9,5656,5.5388,DKK,Danish krone,28.50
+Egypt,EGY,272.0,87758,7.1501,EGP,Egyptian pound,16.93
+Estonia,EST,24.9,1316,0.7427,EUR,Euro,2.90
+Finland,FIN,267.3,5472,0.7427,EUR,Euro,4.10
+France,FRA,2806.4,66078,0.7427,EUR,Euro,3.90
+Germany,DEU,3730.3,80783,0.7427,EUR,Euro,3.67
+Greece,GRC,242.2,10993,0.7427,EUR,Euro,3.05
+Hong Kong,HKG,274.0,7235,7.7505,HKD,Hong Kong dollar,18.80
+Hungary,HUN,133.4,9879,228.3062,HUF,Hungarian forint,860.00
+India,IND,1876.8,1264700,60.0888,INR,Indian rupee,105.00
+Indonesia,IDN,868.3,255462,11505.0000,IDR,Indonesian rupiah,27939.00
+Ireland,IRL,232.1,4610,0.7427,EUR,Euro,3.49
+Israel,ISR,290.6,8296,3.4138,ILS,Israeli new shekel,17.50
+Italy,ITA,2149.5,60782,0.7427,EUR,Euro,3.85
+Japan,JPN,4919.6,127070,101.5300,JPY,Japanese yen,370.00
+Lithuania,LTU,45.9,2923,2.5646,LTL,Lithuanian litas,8.95
+Malaysia,MYS,313.2,30447,3.1675,MYR,Malaysian ringgit,7.63
+Mexico,MEX,1260.9,121006,12.9326,MXN,Mexican peso,42.00
+Netherlands,NLD,853.5,16883,0.7427,EUR,Euro,3.45
+New Zealand,NZL,185.8,4552,1.1527,NZD,New Zealand dollar,5.70
+Norway,NOR,512.6,5156,6.1873,NOK,Norwegian krone,48.00
+Pakistan,PAK,232.3,188556,98.6800,PKR,Pakistani rupee,300.00
+Peru,PER,202.3,31152,2.7880,PEN,Peruvian nuevo sol,10.00
+Philippines,PHL,272.1,100777,43.2050,PHP,Philippine peso,160.00
+Poland,POL,525.9,38496,3.0714,PLN,Polish zloty,9.20
+Portugal,PRT,227.3,10478,0.7427,EUR,Euro,3.00
+Russia,RUS,2096.8,146300,34.8373,RUB,Russian ruble,89.00
+Saudi Arabia,SAU,748.4,31521,3.7504,SAR,Saudi riyal,11.00
+Singapore,SGP,297.9,5470,1.2380,BND,Brunei dollar,4.70
+South Africa,ZAF,350.6,54002,10.5145,ZAR,South African rand,24.50
+South Korea,SAS,1304.6,50424,1023.7500,KRW,South Korean won,4100.00
+Spain,ESP,1393.0,46508,0.7427,EUR,Euro,3.65
+Sri Lanka,LKA,67.2,20359,130.2550,LKR,Sri Lankan rupee,350.00
+Sweden,SWE,579.7,9738,6.8360,SEK,Swedish krona,40.70
+Switzerland,CHE,685.4,8212,0.9024,CHF,Swiss franc,6.16
+Taiwan,SYR,474.0,23425,29.9820,TWD,New Taiwan dollar,79.00
+Thailand,THA,387.3,64871,31.7800,THB,Thai baht,99.00
+Turkey,TUR,822.1,76668,2.0913,TRY,Turkish lira,9.25
+UAE,TUV,402.3,9577,3.6731,AED,United Arab Emirates dirham,13.00
+Ukraine,UKR,177.4,42965,11.6850,UAH,Ukrainian hryvnia,19.00
+United States,USA,16768.1,320092,1.0000,USD,United States dollar,4.80
+Uruguay,URY,55.7,3404,22.9700,UYU,Uruguayan peso,113.00
+Venezuela,VEN,438.3,30620,11.0000,VEF,Venezuelan bolivar,75.00
+Vietnam,VNM,171.4,90730,21230.0000,VND,Vietnamese dong,60000.00
