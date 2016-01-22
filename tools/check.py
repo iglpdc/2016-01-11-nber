@@ -220,6 +220,13 @@ def check_helpers(helpers):
     # yaml automatically loads list-like strings as lists
     return isinstance(helpers, list) and len(helpers) >= 0
 
+def check_organizers(organizers):
+    '''"organizer" must be a comma-separated list of quoted names,
+    e.g. ['First name', 'Second name', ...'].  The list may be empty.  Do
+    not use "TBD" or other placeholders.'''
+
+    # yaml automatically loads list-like strings as lists
+    return isinstance(organizers, list) and len(organizers) >= 0
 
 @look_for_fixme
 def check_email(email):
@@ -288,6 +295,10 @@ HANDLERS = {
     'helper':     (True, check_helpers,
                    'helper list isn\'t a valid list of format ' +
                    '["First helper", "Second helper",..].'),
+
+    'organizer':   (True, check_organizers,
+                   'organizer list isn\'t a valid list of format ' +
+                   '["First organizer", "Second organizer",..].'),
 
     'contact':    (True, check_email,
                    'contact email invalid or still set to ' +
